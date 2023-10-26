@@ -1,3 +1,6 @@
 first line
+<<<<<<< HEAD
 second line
 third line
+=======
+>>>>>>> parent of f2d507a (commit2)
